@@ -9,13 +9,13 @@ img {
     height:300px;
 }
 
-@media  screen and (min-width: 480px) and (max-width: 767px) { 
+@media  screen and (min-width: 480px) and (max-width: 689px) { 
     body {
     background-color: black;
     color:whitesmoke;
     }
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 690px) {
   body {
     background-color:orchid;
     color:black
