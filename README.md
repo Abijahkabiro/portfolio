@@ -20,5 +20,5 @@ as I was coding ,I was committing all my changes.
 HTML
 CSS
 
-### LICENCE: [MIT] ()
+### LICENCE: [MIT] (https://github.com/Abijahkabiro/portfolio/blob/master/LICENCE)
 
